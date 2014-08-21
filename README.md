@@ -12,3 +12,6 @@ by Phil Haack [@haacked](https://github.com/haacked)
 
   Above command add an alias ```co``` as shorthand for ```checkout``` command.
   Now in order to check out a branch ```git co {barnch-name}```
+  
+  Commit 1
+  Commit 2
